@@ -1,15 +1,7 @@
 //import 'dart:math';
 
 import 'package:flutter/material.dart';
-/*223001254 MI MTYALI
-223009523 SB TSHIMUKA
-223000453 NH MATSANE 
-223031859 K RAMOLISE
-222009992 T CHIKAKA
-223007410 T MANOSA
-223042658 A MTSHONISWA
-223026092 SS SHANGE */
-/*Question 2: Main Menu Page */
+
 void main() {
   runApp(const MySecondApp());
 }
